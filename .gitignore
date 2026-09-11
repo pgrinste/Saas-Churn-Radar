@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+venv/
+.venv/
+
+# Secrets — never commit these
+kaggle.json
+.env
+*.key
+
+# Trained artifacts
+artifacts/
+
+# Jupyter / editors
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
