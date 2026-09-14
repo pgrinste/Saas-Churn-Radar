@@ -3,3 +3,4 @@ pandas>=2.0
 xgboost>=2.0
 shap>=0.45
 matplotlib>=3.7
+streamlit>=1.36   # account risk dashboard (app.py)
